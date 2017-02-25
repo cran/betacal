@@ -1,0 +1,7 @@
+ba86191f1a584a55ab1bb0d2394b529e *DESCRIPTION
+cf386577d9753aba1df253db562c1c88 *LICENSE
+b65eae8a9d417e75897ae6f66d4479e5 *NAMESPACE
+1f95c37b4de708303853799d71399e66 *R/beta_calibration.r
+0c210c2dbcb8cec72eb682a3ddf16ffd *R/beta_predict.r
+ff38586d1bc97c999416c3308418ae1d *man/beta_calibration.Rd
+1946595a3fe10194928a64ebebf7c839 *man/beta_predict.Rd
